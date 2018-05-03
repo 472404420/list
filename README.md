@@ -3,4 +3,4 @@
 - [x] 双重差分模型
 - [ ] 贝叶斯方法
 - [x] QCA方法
-- [ ] Book the flight tickets  
+- [ ] Stata应用  
