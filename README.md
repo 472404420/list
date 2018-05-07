@@ -3,6 +3,8 @@
 - [ ] 代理理论
 - [ ] 信息整合理论
 - [ ] 人类学习理论
+- [ ] 技术接受模型（Technology Acceptance Model，TAM）
+- [ ] 计划行为理论(Theory of Planned Behavior,TPB)
 
 ## 计量经济学
 - [x] 双重差分模型
